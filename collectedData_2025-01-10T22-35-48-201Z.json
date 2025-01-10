@@ -1,0 +1,18 @@
+[
+  {
+    "id": "5000392",
+    "programStudi": "D-IV PENDIDIKAN LUAR SEKOLAH",
+    "programStudiIndex": 3,
+    "jumlahData": 0,
+    "jenjangPendidikan": "S-1/Sarjana",
+    "jenjangPendidikanIndex": 10
+  },
+  {
+    "id": "5193674",
+    "programStudi": "D-IV/S-1 AKUNTANSI",
+    "programStudiIndex": 4,
+    "jumlahData": 6,
+    "jenjangPendidikan": "S-1/Sarjana",
+    "jenjangPendidikanIndex": 10
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "5000392",
+    "programStudi": "D-IV PENDIDIKAN LUAR SEKOLAH",
+    "programStudiIndex": 3,
+    "jumlahData": 0,
+    "jenjangPendidikan": "S-1/Sarjana",
+    "jenjangPendidikanIndex": 10
+  },
+  {
+    "id": "5193674",
+    "programStudi": "D-IV/S-1 AKUNTANSI",
+    "programStudiIndex": 4,
+    "jumlahData": 6,
+    "jenjangPendidikan": "S-1/Sarjana",
+    "jenjangPendidikanIndex": 10
+  },
+  {
+    "id": "5193686",
+    "programStudi": "D-IV/S-1 AKUNTANSI MANAJERIAL",
+    "programStudiIndex": 5,
+    "jumlahData": 6,
+    "jenjangPendidikan": "S-1/Sarjana",
+    "jenjangPendidikanIndex": 10
+  },
+  {
+    "id": "5193683",
+    "programStudi": "D-IV/S-1 EKONOMI",
+    "programStudiIndex": 6,
+    "jumlahData": 2801,
+    "jenjangPendidikan": "S-1/Sarjana",
+    "jenjangPendidikanIndex": 10
+  },
+  {
+    "id": "5193677",
+    "programStudi": "D-IV/S-1 EKONOMI PEMBANGUNAN",
+    "programStudiIndex": 7,
+    "jumlahData": 3572,
+    "jenjangPendidikan": "S-1/Sarjana",
+    "jenjangPendidikanIndex": 10
+  },
+  {
+    "id": "5193679",
+    "programStudi": "D-IV/S-1 ILMU KOMPUTER",
+    "programStudiIndex": 8,
+    "jumlahData": 713,
+    "jenjangPendidikan": "S-1/Sarjana",
+    "jenjangPendidikanIndex": 10
+  },
+  {
+    "id": "5100554",
+    "programStudi": "D-IV/S-1 LINTAS DISIPLIN ILMU",
+    "programStudiIndex": 9,
+    "jumlahData": 688,
+    "jenjangPendidikan": "S-1/Sarjana",
+    "jenjangPendidikanIndex": 10
+  },
+  {
+    "id": "5193675",
+    "programStudi": "D-IV/S-1 MANAJEMEN",
+    "programStudiIndex": 10,
+    "jumlahData": 2848,
+    "jenjangPendidikan": "S-1/Sarjana",
+    "jenjangPendidikanIndex": 10
+  }
+]
